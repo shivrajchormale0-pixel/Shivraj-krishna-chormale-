@@ -1,0 +1,6 @@
+{
+  "name": "MadatSetu",
+  "description": "Modern, secure and trustworthy crowdfunding and social-help platform with multilingual support (Marathi, Hindi, English), verified beneficiary campaigns, fraud prevention, and transparent donation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
